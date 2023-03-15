@@ -1,0 +1,25 @@
+General tags in html
+<html>
+<head>
+</head>
+<title></title>
+<body>
+<h1> </h1>
+<i>  </i>-->italic
+<hr/> <hr/>-->underline
+<br/>-->break
+<p></p >-->para
+<small> </small>-->make the font small
+<big> </big>-->make the font big
+<sub> </sub>-->subscript
+<sup> </sup>-->superscript(power)
+</body>
+</html>
+
+html comments
+<!-- Hii 
+<h2> Comments are <i> ~~INVISIBLE~~</i> </h2>
+<hr>
+-->
+
+
